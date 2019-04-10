@@ -9,7 +9,7 @@
    a:active {color: #ffffff}
 </style>
 </HEAD>
-<BODY background="background1.jpg">
+<BODY background="bg-01.jpg">
 <?php include("header.php"); ?>
 <FONT size="5" color="white">
 <SECTION align="center"><A HREF="index.php"><IMG SRC="logo.png" alt="Home" id="logo"></IMG></A></SECTION>
